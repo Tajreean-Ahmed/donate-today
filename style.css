@@ -94,12 +94,15 @@ hr {
 
 .get-update {
     background-color: #FFF4D6;
-    margin-left: 240px;
+    margin-left: 340px;
     margin-right: 240px;
     padding: 50px;
-    padding-left: 100px;
 
+}
 
+.email-box {
+    background-color: #D9D9D9;
+    border: none;
 }
 
 button {
