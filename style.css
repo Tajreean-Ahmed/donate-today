@@ -31,7 +31,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
     height: 480px;
     padding-top: 80px;
 }
@@ -110,6 +109,17 @@ button {
     padding: 15px 32px;
     border: none;
     color: white;
+
+}
+
+.donation-img {
+    background-image: url(images/donation7.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 480px;
+    padding-top: 80px;
 
 }
 
